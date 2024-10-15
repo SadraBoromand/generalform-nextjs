@@ -1,6 +1,6 @@
 # General Form Next.js
 
-<img src="./public/logo.png" width="400"/>
+<img src="https://github.com/SadraBoromand/generalform-nextjs/raw/main/public/logo.png" width="400"/>
 
 ## Creating a form in Next.js quickly and easily
 
@@ -81,7 +81,7 @@ export default function Home() {
 
 ## Demo image
 
-<img src="./public/demo.jpeg" width="400"/>
+<img src="https://github.com/SadraBoromand/generalform-nextjs/raw/main/public/demo.jpeg" width="400"/>
 
 ## API
 
